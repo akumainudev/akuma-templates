@@ -1,0 +1,3 @@
+# Requirements for Simple API Template
+Flask>=2.0
+
